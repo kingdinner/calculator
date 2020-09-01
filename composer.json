@@ -1,10 +1,10 @@
 {
-    "name": "devdojo/calculator",
+    "name": "kingdinner/calculator",
     "description": "This demo package will do some calculations",
     "authors": [
         {
-            "name": "Tony lea",
-            "email": "tony@devdojo.com"
+            "name": "king vinz",
+            "email": "kingrowellvidal@gmail.com"
         }
     ],
     "minimum-stability": "dev",
